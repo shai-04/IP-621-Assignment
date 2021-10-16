@@ -1,0 +1,30 @@
+body {
+    font-family: "Consolas", "Arial";
+    background: linear-gradient(to right, #c6ffdd, #fbd786, #f7797d);
+}
+
+table, th, tr, td {
+    border: 1px solid black;
+    border-collapse: collapse;
+}
+
+table {
+    background-color: #ffffff44;
+    max-width: 600px;
+    margin: auto;
+}
+
+td, th {
+    padding: 10px;
+}
+
+th {
+    text-align: left;
+}
+
+caption {
+    background-color: #ffffff44;
+    border: 1px dotted black;
+    margin: 5px;
+    padding: 10px;
+}
